@@ -36,9 +36,9 @@ As this project is short, there are only a few commands you can run to modify an
 
 You can create a new instance of either posts, users or comments using the following syntax on your command line:
 
-  - User.new(name: '........', email: '........')
-  - Comment.new(author: '........', comment: '.........')
-  - Post.new(title: '........', body: '........')
+  - User.new(name: '........' , email: '........')
+  - Comment.new(author: '........' , comment: '.........')
+  - Post.new(title: '........' , body: '........')
 
 ## 🎂 Contributions, Issues & Forking
 
